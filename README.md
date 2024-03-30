@@ -13,7 +13,7 @@ Este repositório contém desafios em Python realizados durante o curso de Pytho
 
 ## 🧠 Sobre o repositório
 
-Neste repositório,você encontrará uma coleção de desafios em Python, que abrangem diferentes tópicos e níveis de dificuldade. Cada desafio está em seu próprio arquivo ou pasta, devidamente nomeado e organizado.
+Neste repositório, você encontrará uma coleção de desafios em Python, que abrangem diferentes tópicos e níveis de dificuldade. Cada desafio está em seu próprio arquivo ou pasta, devidamente nomeado e organizado.
 
 # Autores
 
